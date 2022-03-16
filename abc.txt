@@ -1,2 +1,5 @@
 changes in program
 add
+ this tech
+ learning git hub
+ 
